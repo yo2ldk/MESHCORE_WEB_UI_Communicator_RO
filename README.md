@@ -6,6 +6,8 @@ aceasta este o interfata WEB pentru reteaua Meshcore, cu companion serial (in li
 Utilizarea acestei interfete este deosebit de simpla (scopul ptr care am creat-o), fara a instala softuri adiacente, fisiere .bat, scripturi, python ori alte complicatii cu care un user obisnuita se descurca mult mai greu deci, doar click pe fisier, se deschide interogarea de selectare a portului, in acest moment introduceti cablul USB, selectati portul detectat si ..SUCCES !!
 Aveti acum un terminal de comunicatii digitale sigur, robust si eficient !
 
+Daca va place, va rog acordati o stea..
+
   Descriere:
 
   
@@ -105,6 +107,12 @@ Interfața a fost dezvoltată și testată în cadrul rețelei MeshCore active d
 Rețeaua numără deocamdata  **243+ noduri** active în zona Balcanilor de Vest, mereu in crestere..
 
 ---
+
+<img width="2048" height="932" alt="COMM" src="https://github.com/user-attachments/assets/1edae12f-45fa-4e31-b729-74f6142f799e" />
+
+<img width="1746" height="872" alt="DESK" src="https://github.com/user-attachments/assets/41bae8b1-af04-4b22-82ba-123f12388a0c" />
+
+
 
 *  Dezvoltat  de YO2LDK · MeshCore EU_868 · Mai 2026*  SDR like, waterfall interface, animated background Mesh network and many bug's removed, not was possible without AI help..  *
 
